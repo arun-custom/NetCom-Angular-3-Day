@@ -166,7 +166,7 @@ app.config(["$routeProvider", function($routeProvider) {
 var app = angular.module("wineApp", ["ngRoute"]);
 ```
 
-#####Accessing route parameters
+##### Accessing route parameters
 
 - In order to access parameters that are passed into a URL, you will need to inject $routeParams into your controller:
 
