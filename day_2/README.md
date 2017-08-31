@@ -194,11 +194,3 @@ app.directive("myTodos", function() {
 	}
 });
 ```
-
-## Movie Search Lab
-
-- For this lab we will be building an application that can search for movies in a database and display the results.
-- The frontend is already done for you [here](https://github.com/arun-projects/Movie-Search-App).
-- For this project we will imagine that we want to build a widget that can pull this movie information, and that we want to use this functionality throughout our app.
-- Your job is to create a directive for the search function of this app and have it render on the page.
-- To hide and show the search box you will have to look into [ngShow](https://docs.angularjs.org/api/ng/directive/ngShow).
